@@ -1,0 +1,16 @@
+# Byte-compiled files and cache directories
+__pycache__/
+*.py[cod]
+
+# Test and coverage output
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS metadata
+.DS_Store
